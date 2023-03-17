@@ -13,7 +13,7 @@
 #
 ---
 include:
+  - board: nice_nano_v2 
+    shield: snap_left nice_view_adapter nice_view
   - board: nice_nano_v2
-    shield: snap_left
-  - board: nice_nano_v2
-    shield: snap_right
+    shield: snap_right nice_view_adapter nice_view
